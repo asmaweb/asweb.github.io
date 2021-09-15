@@ -125,7 +125,7 @@ fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, 
 
 
 
-button {
+/* button {
   border: none;
   padding: 0;
   font-size: 0;
@@ -136,7 +136,7 @@ button {
 
 :focus {
   outline: 0;
-}
+} */
 
 .clearfix:before, .clearfix:after {
   content: "\0020";
